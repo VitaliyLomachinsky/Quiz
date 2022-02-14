@@ -1,0 +1,7 @@
+.Settings{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 200px;
+  margin-bottom: 10px;
+}

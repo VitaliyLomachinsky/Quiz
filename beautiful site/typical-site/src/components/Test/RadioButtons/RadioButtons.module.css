@@ -1,0 +1,13 @@
+.corrcet {
+  background-color: green;
+}
+
+.answer_text {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  font-size: 18px;
+}
+
+.radio_Btn {
+  --form-control-color: blueviolet;
+}

@@ -1,0 +1,16 @@
+.Tests {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.grade {
+  font-size: 30px;
+  margin-top: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.grade_none {
+  display: none;
+}
+
